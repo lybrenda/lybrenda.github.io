@@ -4,7 +4,7 @@ This is my home page! My name is Brenda Ly and I am a student at [Cal State Full
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/lybrenda.
+My GitHub page is [http://github.com/lybrenda](http://github.com/lybrenda).
 
 ### CPSC 120
 
@@ -18,5 +18,5 @@ My GitHub page is http://github.com/lybrenda.
 
 * Lab 7
 
-    Lab 7, part 2 was a favorite because it dealt with a program that applied a real-life scenario. It required many different if-else statements that would run according to parking signs. These if-else statements were extremely specific, requiring a certain day of the week and time of the day, making this lab the most difficult one I completed. Still, I liked that it was challenging and it taught me how to use the AND operator (&&) and OR operator (||). This lab was fun to learn and was crucial to finish the labs after it.
+    Lab 7, part 2 was a favorite because it dealt with a program that applied a real-life scenario. It required many different if-else statements that would run according to parking signs. These if-else statements were extremely specific, requiring a certain day of the week and time of the day, making this lab the most difficult one I completed. Still, I liked that it was challenging and it taught me how to use the AND operator (&&). This lab was fun to learn and was crucial to finish the labs after it.
 
